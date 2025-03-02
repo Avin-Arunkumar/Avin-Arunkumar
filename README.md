@@ -1,7 +1,7 @@
 Hi, I’m Avin  A 👋  
 ---
-💡 A driven Computer Science student eager to make an impact in the tech world!
-I have a solid foundation in web development, problem-solving, and algorithm optimization. Passionate about tackling challenges and building innovative solutions.
+💡 A passionate Computer Science student determined to make an impact in the tech world!
+I have a solid foundation in web development, problem-solving, and algorithm optimization. Excited about tackling challenges and building innovative solutions.
 ---
 
 
@@ -15,9 +15,9 @@ I have a solid foundation in web development, problem-solving, and algorithm opt
 ## 🛠️ Tech Toolbox  
 
 ### **Languages**  
-🟡 **JavaScript** –  Powering dynamic and interactive web experiences
-🟠 **Python** – Crafting efficient solutions with clean code
-🔵 **Java** – Developing reliable and scalable applications
+🟡 **JavaScript** – Powering dynamic and interactive web experiences  
+🔵 **Java** – Developing reliable and scalable applications  
+🟠 **Python** – Crafting efficient solutions with clean code  
 
 ### **Frameworks & Libraries**  
 🟢 **React** – Making web apps more engaging  
@@ -38,7 +38,7 @@ I have a solid foundation in web development, problem-solving, and algorithm opt
 ---
 ## 🌍 Let's Connect!  
 📌 [LeetCode Profile](https://leetcode.com/u/avin2005/)  
-📌 [LinkedIn](www.linkedin.com/in/avin4599)  
+📌 [LinkedIn](https://www.linkedin.com/in/avin4599/)  
 
 ---
 
