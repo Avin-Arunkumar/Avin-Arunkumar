@@ -1,6 +1,6 @@
 Hi, I’m Avin  A 👋  
 ---
-💡 A passionate Computer Science student determined to make an impact in the tech world!.
+💡 A passionate Computer Science student determined to make an impact in the tech world.
 I have a solid foundation in web development, problem-solving, and algorithm optimization. Excited about tackling challenges and building innovative solutions.
 ---
 
