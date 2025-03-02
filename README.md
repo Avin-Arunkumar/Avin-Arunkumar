@@ -43,15 +43,7 @@ I love transforming ideas into reality through **code and creativity**. Whether 
 
 
 
-## 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=contest&theme=dark)  
-
-![LeetCode Performance](https://leetcode.com/u/avin2005/)  
-
-> 📌 **To display your LeetCode Performance Image:**  
-> 1. Upload the image to a hosting service (e.g., Imgur, GitHub repository).  
-> 2. Replace `YOUR_IMAGE_LINK` with the actual image URL.  
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/avin2005?theme=dark&font=Noto%20Sans%20Osage)
 ---
 
 ## 🌍 Let's Connect!  
