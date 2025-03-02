@@ -33,10 +33,29 @@ I love transforming ideas into reality through **code and creativity**. Whether 
 🟩 **MongoDB** – NoSQL for scalable applications  
 🔵 **PostgreSQL** – Robust and reliable storage  
 
+---
 
+## 💻 Workspace Specs  
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+
+---
+
+
+
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=contest&theme=dark)  
+
+![LeetCode Performance](https://leetcode.com/u/avin2005/)  
+
+> 📌 **To display your LeetCode Performance Image:**  
+> 1. Upload the image to a hosting service (e.g., Imgur, GitHub repository).  
+> 2. Replace `YOUR_IMAGE_LINK` with the actual image URL.  
+
+---
 
 ## 🌍 Let's Connect!  
-📌 [LeetCode Profile](YOUR_LEETCODE_PROFILE_LINK)  
+📌 [LeetCode Profile](https://leetcode.com/u/avin2005/)  
 📌 [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)  
 
 ---
