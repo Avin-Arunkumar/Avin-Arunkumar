@@ -1,30 +1,44 @@
-# Hi there, I'm Avin! 👋  
+# Hey there, I'm Avin! 👋  
 
-🚀 **Junior Web Developer | Problem Solver | Tech Enthusiast**  
-📚 Currently learning Full-Stack Development and DSA  
-💡 Building innovative projects like **Civil Container**  
-🎯 Improving my **English fluency & communication skills**  
-🏆 CodSoft Web Development Intern | Rotary Club Web App Developer  
-
-## 🌟 About Me  
-- 🔭 I’m currently focusing on mastering **OOP in Python**  
-- 🌱 Exploring **JavaScript, React, and Backend Development**  
-- 👨‍💻 Solving DSA problems on **LeetCode**  
-- 🎮 Passionate about building **efficient and interactive web applications**  
-
-## 🛠 Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-
-## 📈 GitHub Stats  
-![Avin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=web&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+🚀 **Innovative Thinker | Junior Web Developer | Problem Solver**  
+I love transforming ideas into reality through **code and creativity**. Whether it's optimizing algorithms or crafting seamless web experiences, I'm always up for a challenge!  
 
 ---
-✨ _"Striving for growth and excellence every day!"_  
+
+## 🌟 Who Am I?  
+🔹 **Tech Explorer:** Always curious about new technologies and how they shape the world.  
+🔹 **Resilient Coder:** Debugging isn’t just fixing; it’s an adventure!  
+🔹 **Creative Problem Solver:** I enjoy tackling complex problems with smart, efficient solutions.  
+🔹 **Continuous Learner:** From mastering **OOP in Python** to building **interactive web applications**, I never stop learning.  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+### **Languages**  
+🟡 **JavaScript** – My go-to for dynamic web development  
+🟠 **Python** – Solving problems one algorithm at a time  
+
+### **Frameworks & Libraries**  
+🟢 **React** – Making web apps more engaging  
+⚫ **Node.js & Express.js** – Powering the backend  
+
+### **Tools & Platforms**  
+🔹 **Git & GitHub** – Version control like a pro  
+🔹 **Docker** – Containerizing applications  
+🔹 **AWS** – Exploring cloud capabilities  
+
+### **Databases**  
+🔷 **MySQL** – Structured data management  
+🟩 **MongoDB** – NoSQL for scalable applications  
+🔵 **PostgreSQL** – Robust and reliable storage  
+
+
+
+## 🌍 Let's Connect!  
+📌 [LeetCode Profile](YOUR_LEETCODE_PROFILE_LINK)  
+📌 [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)  
+
+---
+
+🔥 _"Code with purpose, learn with passion, and build with impact!"_  
