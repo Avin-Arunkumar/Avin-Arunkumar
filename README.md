@@ -16,8 +16,8 @@ I have a solid foundation in web development, problem-solving, and algorithm opt
 
 ### **Languages**  
 🟡 **JavaScript** – Powering dynamic and interactive web experiences  
-🔵 **Java** – Developing reliable and scalable applications  
 🟠 **Python** – Crafting efficient solutions with clean code  
+🔵 **Java** – Developing reliable and scalable applications  
 
 ### **Frameworks & Libraries**  
 🟢 **React** – Making web apps more engaging  
